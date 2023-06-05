@@ -14,7 +14,7 @@ AES (Advanced Encryption Standard) is a symmetric block cipher standardized by N
 ### GUI (Graphical User Interface)
 The final output of the project is a single executable file (.exe) which is user-friendly even to non-technical people. Once opened a window will appear:
 
-![This is an image](/project/window.PNG)
+![This is an image](./window.PNG)
 
 The GUI of the program  is implemented using the tkinter library, which allows usage of buttons, label and messagebox.
 
